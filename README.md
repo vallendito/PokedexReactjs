@@ -1,3 +1,7 @@
+## Pokedex with ReactJs
+
+![alt text](https://github.com/vallendito/PokedexReactjs/blob/master/pokedex.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
